@@ -49,6 +49,10 @@ brew install python node
 
 ```
 
+## vscode
+
+`settings.json` and `keybindings.json` file
+
 ## zsh
 
 plugins:
