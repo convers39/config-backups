@@ -55,6 +55,13 @@ brew install python node
 
 ## zsh
 
+Install [ omz ](https://github.com/ohmyzsh/ohmyzsh):
+
+```bash
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+```
+
 plugins:
 
 ```bash
