@@ -148,7 +148,7 @@ alias lg=lazygit
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 # zsh-syntax-highlighting
 # source syntax highlighting
-source /Users/Jerry/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
+source ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
 
 bindkey ',' autosuggest-accept
 
